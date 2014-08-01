@@ -1,3 +1,6 @@
 .idea/
 SpringPlaceHolders.iml
 *.iml
+common/target/
+dao/target/
+run/target/
